@@ -1,0 +1,210 @@
+@media screen and (max-width:600px) {    
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&display=swap');
+    
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    header{
+    }
+    header .navegacao1{
+        display: none;
+    }
+    .part2{
+        display: none;
+    }
+    .part3{
+        display: none;
+    }
+    .partfinal{
+        display: none;
+    }
+    header .wppmobile{
+        display: inline;
+    }
+    main .part1{
+        display: none;
+    }
+    .part1m{
+        display: inline;
+    }
+    .part1m picture img{
+        width: 100vw;
+        height: 100vh;
+    }
+    .boasvindasm{
+        width: 80vw;
+        position: relative;
+        bottom: 760px;
+        left: 50px;
+    }
+    .boasvindasm h2{
+        font-size: 49px;
+        text-align: center;
+        color: white;
+    }
+    .boasvindasm .patameiom img{
+        width: 90px;
+        height: 90px;
+        position: relative;
+        left: 190px;
+    }
+    .part2m{
+        display: inline;
+    }
+    .part2m picture img{
+        width: 100vw;
+        position: relative;
+        right: 140px;
+        top: 160px;
+    }
+    .part2m aside{
+        width: 64vw;
+        position: relative;
+        bottom: 500px;
+        left: 40px;
+    }
+    .part2m aside h2{
+        color: #3A342F;
+        font-size: 36px;
+        padding-bottom: 20px;
+    }
+    .part2m aside p{
+        color: #3A342F;
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .part2m .linkp2m{
+        font-size: 17px;
+        width: 30vw;
+        text-align: center;
+        color: white;
+        background-color: #3A342F;
+        border-radius: 20px 20px;
+        padding: 9px 9px;
+    }
+    .part3m{
+        display: inline;
+    }
+    .part3m picture img{
+        position: relative;
+        bottom: 54px;
+        width: 100vw;
+        height: 100vh;
+        padding-top: 400px;
+        background-image: linear-gradient(to right, #D63664, #E64571, #F4557E, #F55882,#F55882);
+    }
+    .part3m aside{
+        width: 70vw;
+        height: 28vh;
+        position: relative;
+        bottom: 800px;
+        left: 30px;
+    }
+    .part3m aside h2{
+        color: white;
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    .part3m aside p{
+        color: white;
+        font-size: 20px;        
+        padding-bottom: 20px;
+    }
+    .part3m .linkp3m{
+        width: 30vw;
+        font-size: 18px;
+        text-align: center;
+        color: black;
+        background-color: white;
+        border-radius: 26px 26px;
+        padding: 10px 15px;
+    }
+    .partfinalm{
+        display: inline;
+        width: 100vw;
+        position: relative;
+        bottom: 160px;
+    }
+    .partfinalm h3{
+        text-align: center;
+        color: #FD6A9A;
+    }
+    .partfinalm picture{
+        display: flex;
+        justify-content: space-around;
+    }
+    footer{        
+        height: 600px;
+        
+    }
+    footer .fweb{
+        display: none;
+    }
+    .fmobile{
+        display: inline;        
+        width: 100vw;
+    }
+    .fmobile .logofm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        padding: 20px 30px;
+    }
+    .fmobile .logofm picture img{
+        width: 90px;
+        height: 90px;
+    }
+    .fmobile .logofm h1{
+        color: white;
+        font-size: 40px;
+    }
+    .fmobile .contatosfm picture{
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .fmobile .contatosfm picture img{
+        width: 70px;
+        padding: 0 20px;
+    }
+    .fmobile .nav2m{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fmobile .nav2m ul{
+        width: 40vw;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    body{
+        background-color: #F4F2F3;
+    }
+}
